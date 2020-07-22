@@ -1,0 +1,3 @@
+avgDeviation = 0.0004159681
+minDeviation = 0.0000000000
+maxDeviation = 0.0036431439
